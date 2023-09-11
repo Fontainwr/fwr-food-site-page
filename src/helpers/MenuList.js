@@ -7,17 +7,17 @@ import Expensive from "../assets/expensive.jpg";
 
     export const MenuList = [
     {
-        name: "Pepperoni Pizza",
+        name: "Soul Plate",
         image: Pepperoni,
         price: 15.99,
     },
     {
-        name: "Margherita Pizza",
+        name: "Yams Combo",
         image: Margherita,
         price: 11.99,
     },
     {
-        name: "PedroTech Special Pizza",
+        name: "North South Combo Plate",
         image: PedroTechSpecial,
         price: 256.53,
     },
@@ -27,12 +27,12 @@ import Expensive from "../assets/expensive.jpg";
         price: 17.99,
     },
     {
-        name: "Pineapple Pizza",
+        name: "Heathly Jazz Plate",
         image: Pineapple,
-        price: 4.99,
+        price: 14.99,
     },
     {
-        name: "Very Expensive Pizza",
+        name: "All you can eat! ",
         image: Expensive,
         price: 1997.99,
     },

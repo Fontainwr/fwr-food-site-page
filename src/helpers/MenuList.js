@@ -17,7 +17,7 @@ import Expensive from "../assets/expensive.jpg";
         price: 11.99,
     },
     {
-        name: "North South Combo Plate",
+        name: "Combo Plate",
         image: PedroTechSpecial,
         price: 256.53,
     },
@@ -27,12 +27,12 @@ import Expensive from "../assets/expensive.jpg";
         price: 17.99,
     },
     {
-        name: "Heathly Jazz Plate",
+        name: "Jazz Plate",
         image: Pineapple,
         price: 14.99,
     },
     {
-        name: "All you can eat! ",
+        name: "The Grub!",
         image: Expensive,
         price: 1997.99,
     },

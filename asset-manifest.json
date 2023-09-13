@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fwr-food-site-page/static/css/main.fab338f1.css",
+    "main.js": "/fwr-food-site-page/static/js/main.29fc5d89.js",
+    "static/js/787.6fce19fc.chunk.js": "/fwr-food-site-page/static/js/787.6fce19fc.chunk.js",
+    "static/media/backgroundsoul.jpg": "/fwr-food-site-page/static/media/backgroundsoul.9507f09525be328904e5.jpg",
+    "static/media/multiplePizzas.jpeg": "/fwr-food-site-page/static/media/multiplePizzas.a0b93053f0e65ef85c51.jpeg",
+    "static/media/vegan.jpg": "/fwr-food-site-page/static/media/vegan.52cbfe9e6f8d75e18f8b.jpg",
+    "static/media/pepperoni.jpg": "/fwr-food-site-page/static/media/pepperoni.a30d56ebc92aa570aeac.jpg",
+    "static/media/pizzaLogo.jpg": "/fwr-food-site-page/static/media/pizzaLogo.3bf54bba7b095cd824b7.jpg",
+    "static/media/expensive.jpg": "/fwr-food-site-page/static/media/expensive.9d1131942d55575f1377.jpg",
+    "static/media/pineapple.jpg": "/fwr-food-site-page/static/media/pineapple.62d911fdca29dc1e285f.jpg",
+    "index.html": "/fwr-food-site-page/index.html",
+    "main.fab338f1.css.map": "/fwr-food-site-page/static/css/main.fab338f1.css.map",
+    "main.29fc5d89.js.map": "/fwr-food-site-page/static/js/main.29fc5d89.js.map",
+    "787.6fce19fc.chunk.js.map": "/fwr-food-site-page/static/js/787.6fce19fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fab338f1.css",
+    "static/js/main.29fc5d89.js"
+  ]
+}
